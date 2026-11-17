@@ -1,0 +1,8 @@
+[
+  { "surname": "Коваленко", "course": 1, "studentTicket": "КВ12345678", "averageGrade": 95, "country": "Україна", "foreignPassportNumber": "FA123456" },
+  { "surname": "Smith",     "course": 1, "studentTicket": "КВ12345679", "averageGrade": 97, "country": "США",     "foreignPassportNumber": "US7654321" },
+  { "surname": "Kowalski",  "course": 1, "studentTicket": "КВ12345680", "averageGrade": 91, "country": "Польща",  "foreignPassportNumber": "PL1234567" },
+  { "surname": "Hassan",    "course": 1, "studentTicket": "КВ12345681", "averageGrade": 78, "country": "Єгипет",  "foreignPassportNumber": "EG1234567" },
+  { "surname": "Müller",    "course": 2, "studentTicket": "КВ12345682", "averageGrade": 93, "country": "Німеччина", "foreignPassportNumber": "DE1234567" },
+  { "surname": "Шевченко",  "course": 1, "studentTicket": "КВ12345683", "averageGrade": 60, "country": "Україна", "foreignPassportNumber": "FB654321" }
+]
